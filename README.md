@@ -2,7 +2,7 @@
 
 ## Summary
 
-Designed for aspiring and professional devs in mind, Katatak helps you build a coding practise habit from the convenience of a mobile app. Each code challenge, or 'kata', is solved by passing all of the given tests.
+Designed with aspiring and professional devs in mind, Katatak helps you build a coding practise habit from the convenience of a mobile app. Each code challenge, or 'kata', is solved by passing all of the given tests.
 
 Testing the users submitted solution code for each Kata is carried out server-side - more information about this in the README of our backend Katatak API...
 
